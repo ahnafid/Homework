@@ -12,6 +12,7 @@ public class Telecom {
 	 rfvr.touchpad();
 	 rfvr.videocall();
 	 rfvr.videocallTp();
+	 
  }
  
 }
